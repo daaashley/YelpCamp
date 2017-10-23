@@ -3,7 +3,7 @@ YelpCamp is a dynamic website that allows users to sign up, login, post campsite
 
 The most updated version is found in v1.5. Please note that this project is not finished.
 
-File Structure:
+File Structure(for v1.5):
 
 -Models are predefined database schema's, used to store information on users, campgrounds, and comments. The relationship of these things are also defined here.
 
