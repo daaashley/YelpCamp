@@ -1,0 +1,14 @@
+body{
+    background-color:skyblue;
+}
+
+.thumbnail img{
+    width: 100%;
+}
+.desc{
+    margin-top:15px;
+}
+
+.thumbnail .caption-full{
+    padding:9px;
+}
